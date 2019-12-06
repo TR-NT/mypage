@@ -1,9 +1,9 @@
-@import url('https://fonts.googleapis.com/earlyaccess/hannari.css');
+@import url('https://fonts.googleapis.com/css?family=Noto+Serif+JP&display=swap');
 
 html,body {
   height: 100%;
   width: 100%;
-  font-family: 'inherit', inherit;
+  font-family: 'Noto Serif JP', serif;
   color: #222;
   font-family: "Hannari";
 }
